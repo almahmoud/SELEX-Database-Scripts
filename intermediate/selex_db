@@ -1,0 +1,256 @@
+>HEN1 NHLH1 , contains bHLH motif
+GGGNCGCAGCTGCGNCCC
+>Pbx1
+A T C A A T C A A 
+>N-myc gene product
+N N C C A C G T G N N N
+>N-myc gene product
+N N N G/A C A G G/C/A T G T/G N N N N 
+>N-myc gene product
+G N N N C C A G G/C -/C T G N N N N N N N C N N N
+>Ah receptor 
+N N N N N N T N G C G T G C N N
+>Ah receptor 
+G G G N A T Y G C G T G A C A N N C C 
+>Ah receptor 
+N N N N N C A C G T G N N N N N 
+>Ah receptor 
+G N N N N G T G C G T G A N N N T C C
+>HOX11
+G N N N N G T G C G T G A N N N T C C
+>hXBP-1
+G T/G C C T/A T T/A
+>hXBP-1
+N N A A/T N G/T G N T G
+>hXBP-1
+T - N G G T/A G/C
+>hXBP-1
+A/C/T T/G G A T G N G T/G C/T/A C/A 
+>MEF2
+NNNNNN g/t CT A/t a/t AAATAG c/a NNNN
+>MEF2
+NNNNN t/a t/g CT A/t a/t AAATAG c/a NNNN
+>MEF2
+N c/g TGTTACTA A/t AAATAGA A/t a/c c/a N
+>ASF/SF2 
+RGAAGAAC
+>ASF/SF2 
+AGGACAGAGC
+>ASF/SF2 
+AGGACGAAGC
+>ASF/SF2
+ACGCGCA
+>ASF/SF2
+AGSAGAGTA 
+>ASF/SF2 
+GTTCGAGTA 
+>MCM1 
+NotC C C Y A/T A/T T/A N N A/G G
+>cMyc/Max 
+NGACCACGTGGTCN
+>cMax/Max 
+NRANCACGTGNTYN
+>MElk
+A C/t C G G A A/t G/a Y R
+>c-Abl protein
+A A A A A A C A A C A A
+CN
+>Nova-1
+stem-UCAUYUCAUYUCAUY-stem
+>RORalpha1
+C T/A A/T T/A C A/T A/G G G T C A G 
+>RORalpha1
+A/T T/A A A/T G/C T A/G G G T C A A/G
+>CPSF
+CN
+CN
+>CPSF
+CN
+>Rad51 protein
+CN
+>CDXA protein
+A/C T T T A T A/G
+>OxyR protein
+G G N N N N A N C T A T N N N N N N N
+>OxyR protein
+A T N G G T N T N C C
+>OxyR protein
+A T A N N N N N N N N A N C T A T 
+>OxyR protein
+N N N N N N N A T A G N N N N N A C C
+>OxyR protein
+T A T
+>SP1 protein
+G G G G C G G G G T
+>SP1 protein
+T/G A/G G G C G T/G A/G A/G T/C
+>MZF1
+A G T G G G G A N G T
+>MZF1
+C G G G N G A G G G G G A A 
+>WT1
+G G G T G G G G G T/G A/G T/G N N
+>Rbp9
+RWUUUAUUUWRRWUUUAUUUWR
+>Clox, CDP, mClox
+c T T G A T T A g
+>Clox, CDP, mClox
+G A T C A/C A------G A T C
+>Clox, CDP, mClox
+G A T C C A/T G A T C A/c T/a G A T C C
+>Clox, CDP, mClox
+T A T T/c G G T/a A A A T T A T C/t G g/a
+>Clox, CDP, mClox
+t/a a/t t A T c/t G A T T A t c/t t/g t/a A T T G G
+>Clox, CDP, mClox
+t a T A T C/t G A T T/c A t t/c t/g t/a
+>Clox, CDP, mClox
+t/a a/t t/g A T C/t G A T T/C A t/g t/c t/a t/a
+>Clox, CDP, mClox
+t/a a/t t A T C/t G A T T/C A t t/c t/g t/a
+>Rev protein
+TGGGCNCAGNGTNNNNNANNCTGNNGGTACA
+>ERRalfa, estrogen-related receptor alfa
+N N N T N A A G G T C A N N
+>RTR; retinoid receptor-related testis-assotiated receptor
+N T C A A G G/T T C A A G G/T T C A N N
+>FLI-1 
+T/g N G/A A C C G G A A G/a T/c A/G G/A
+>v-Jun
+A T G A C G T C A T
+>v-Jun
+A T G A C T C A T
+>ADD1/SREBP1
+G/C A T C A C G T G A T/C
+>ADD1/SREBP1
+N A T C A C C C C A C
+>Maf
+T G C T G A C T C A G C A
+>Maf
+T G C T G A C G T C A G C A
+>Ets-1
+A C M G G A W R T T
+>YY1
+N N N N V D C C A T N W Y N N N
+>YY1
+N D D N M G A C A T N T T N N N
+>Oct-2B
+A T G C/T A A A 
+>Oct-2B
+T A A T
+>TFIIIA
+G G G G A A/C A/G Y
+>TFIIIA with zf1-3/5 
+G G G/A G U/T C/G A/Y Y
+>MBP-Th1/E47N heterodimer
+N N N g g D T C T G G H A/T t t
+>ZAP1 Zinc-dependent Activator Protein-1 
+C G T T G A C C G A G
+>GST-Brn-3.0 POU domain fusion protein
+g c A T A/T A T/A T A/T A T
+>GST-Brn-3.0 full coding fusion protein
+g c A T N A T/A T T/A A T
+>GST-Brn-3.2 POU domain fusion protein
+g c A T A A T/A T A A T
+>UNC-86 POU domain
+g c A T A A T T A A T N A G
+>MOK2
+A/G C C T T A/G T C A G G G C C T T T A
+>MOK2
+A/G C C T T A/G T C A G G G C C T T T A/G
+>P protein a Myb homolog 
+A C C A/T A C C A/C T X
+>v-Myb
+Y R G/C T/C A A C G G C/T/A
+>MYB.Ph3 protein
+a a a A a/D a/D C G/C G T T A
+>MYB.Ph3 protein
+a a a A G T T A G T T A
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+T A A G G T C A A N A G G/T T C/G A/G
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+T A A G G T C A A N N A G A G G T C A
+>E2F-1/DP-1 complex baculovirus-expressed
+N N N T/G T T T T T C/G C G C/G C T/A T/A T/A T/C T C N
+>E2F-1/DP-2 complex baculovirus-expressed
+N N N T/C T T T C/G C/G C G C/G C A/T T T/A T/C T N N
+>E2F-4/DP-1 complex baculovirus-expressed
+C C C T T T T C/G G/C C G C G/C A A A/T A/T G/T G G
+>E2F-4/DP-2 complex baculovirus-expressed
+N N A T T/A T T C/G C/G C G C/G C/G A/T T/A T T T T N
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+A/C A/C A/C T/A T/A T T C/G G/C C G C/G G/C A A A/T A/T T/G T/G T/G
+>the SR protein RBP1 expressed in E.coli
+A/T/G C A G/T/A C T T T A
+>GST-B6ZF
+T/A N C T T T C N A G G A/G A T
+>GST-YY1 fudion protein expressed in E.coli
+C/g/a G/t C C A T N T/a T/g/c
+>GBF1
+C C A C G T G G
+>GBF1
+a C A C G T G G
+>GBF1
+a C A C G T G t 
+>GBF1
+t g A C G T G G
+>GBF1
+t g A C G T G t
+>GBF1
+C t A C G T G G
+>GBF1
+C t A C G T G t
+>GBF1
+t t A C G T G t
+>GST-Sox-5 fudion protein expressed in E.coli
+A A C A A T
+>GST-Cut repeat 1 fusion protein expressed in E.coli
+N A T C G A T c G
+>GST-Cut repeat 3 fusion protein expressed in E.coli
+C A C C A/G A T A N N T A T N G
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+G/C A T C/T G A T C/g C/G C/G
+>T protein product of Brachyury gene synthesized in vitro
+C T A G T G/C A C A C C T A G G T G T G A A A T T
+>HNF-4 hepatocyte nuclear factor 4 
+N G/A G G N C A A A G C/T T C A/G N
+>HSF1 heat shock transcription factor 1 
+a G G A c/t g T T C g
+>HSF2 heat shock transcription factor 2 
+a/g G A A n n T T C g/t
+>Tax-CREB complex
+T G A C G C A T A T/C C C C C C 
+>Tax-CREB complex
+G G G G G T/G T G A C G T/C A/C 
+>Tax-CREB complex
+G G G G G T/G T G A C G T/C A/C T A T/C C C C C C
+>CREB cyclic AMP response element-binding protein 
+G N T G A C G T/C
+>GST-Gfi-1 fusion protein expressed in E.coli
+T A A A T C A C A/T G C A
+>wild-type hepatic leukemia factor HLF translated in vitro
+G T T A C G T A A T
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+A/T T/C T/C C A C C T G/T A A/G
+>Ets-1
+N T T/a A/T C C A/T A/t A/t T/A N N G G -G A/t A N
+>Ets-1
+N T T A/T C C A/T A/t A/t T/A N N G G -G A/t A/t N
+>S8 homeodomain expressed in E.coli
+A N C/T C/T A A T T A A/G C
+>Evi-1 domain 1 GST fusion protein expressed in E.coli
+T/A G A T/C A A G A T A A G A T A A
+>Evi-1 domain 1 GST fusion protein expressed in E.coli
+A G A C/T A A G A T A A
+>Evi-1 domain 1 zinc fingers 5 to 7 GST fusion protein expressed in E.coli
+A G A T A A G A T A A
+>Evi-1 domain 1 zinc fingers 4 to 6 GST fusion protein expressed in E.coli
+A/T G A T A A G A T A A G A T A N
+>Evi-1 domain 1 zinc fingers 4 to 6 GST fusion protein expressed in E.coli
+A G A T A A G A T A N
+>c-Myb
+Y G R C A/C/G G T T A/G G
+>AP-2alfa
+N N A/C/T G C C g/C/T N A/G/c a/G G G/C N N N
+>AP-2alfa
+N N /C/T G C C g/C/T N A/G/c G G C A/G/T N N

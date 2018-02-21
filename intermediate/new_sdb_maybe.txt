@@ -1,0 +1,1934 @@
+>HEN1 NHLH1, contains bHLH motif
+GGGNCGCAGCTGCGNCCC
+>Pbx1
+ATCAATCAA
+>N-myc gene product
+NNCCACGTGNNN
+>N-myc gene product
+NNNGCAGGTGTNNNN
+>N-myc gene product
+NNNGCAGGTGGNNNN
+>N-myc gene product
+NNNGCAGCTGTNNNN
+>N-myc gene product
+NNNGCAGCTGGNNNN
+>N-myc gene product
+NNNGCAGATGTNNNN
+>N-myc gene product
+NNNGCAGATGGNNNN
+>N-myc gene product
+NNNACAGGTGTNNNN
+>N-myc gene product
+NNNACAGGTGGNNNN
+>N-myc gene product
+NNNACAGCTGTNNNN
+>N-myc gene product
+NNNACAGCTGGNNNN
+>N-myc gene product
+NNNACAGATGTNNNN
+>N-myc gene product
+NNNACAGATGGNNNN
+>N-myc gene product
+GNNNCCAGG-TGNNNNNNNCNNN
+>N-myc gene product
+GNNNCCAGGCTGNNNNNNNCNNN
+>N-myc gene product
+GNNNCCAGC-TGNNNNNNNCNNN
+>N-myc gene product
+GNNNCCAGCCTGNNNNNNNCNNN
+>Ah receptor 
+NNNNNNTNGCGTGCNN
+>Ah receptor 
+GGGNATYGCGTGACANNCC
+>Ah receptor 
+NNNNNCACGTGNNNNN
+>Ah receptor 
+GNNNNGTGCGTGANNNTCC
+>HOX11
+GNNNNGTGCGTGANNNTCC
+>hXBP-1
+GTCCTTT
+>hXBP-1
+GTCCATA
+>hXBP-1
+GGCCTTT
+>hXBP-1
+GGCCATA
+>hXBP-1
+NNAANGGNTG
+>hXBP-1
+NNAANTGNTG
+>hXBP-1
+NNATNGGNTG
+>hXBP-1
+NNATNTGNTG
+>hXBP-1
+T-NGGTG
+>hXBP-1
+T-NGGTC
+>hXBP-1
+T-NGGAG
+>hXBP-1
+T-NGGAC
+>hXBP-1
+ATGATGNGTCC
+>hXBP-1
+ATGATGNGTCA
+>hXBP-1
+ATGATGNGTTC
+>hXBP-1
+ATGATGNGTTA
+>hXBP-1
+ATGATGNGTAC
+>hXBP-1
+ATGATGNGTAA
+>hXBP-1
+AGGATGNGGCC
+>hXBP-1
+AGGATGNGGCA
+>hXBP-1
+AGGATGNGGTC
+>hXBP-1
+AGGATGNGGTA
+>hXBP-1
+AGGATGNGGAC
+>hXBP-1
+AGGATGNGGAA
+>hXBP-1
+CTGATGNGTCC
+>hXBP-1
+CTGATGNGTCA
+>hXBP-1
+CTGATGNGTTC
+>hXBP-1
+CTGATGNGTTA
+>hXBP-1
+CTGATGNGTAC
+>hXBP-1
+CTGATGNGTAA
+>hXBP-1
+CGGATGNGGCC
+>hXBP-1
+CGGATGNGGCA
+>hXBP-1
+CGGATGNGGTC
+>hXBP-1
+CGGATGNGGTA
+>hXBP-1
+CGGATGNGGAC
+>hXBP-1
+CGGATGNGGAA
+>hXBP-1
+TTGATGNGTCC
+>hXBP-1
+TTGATGNGTCA
+>hXBP-1
+TTGATGNGTTC
+>hXBP-1
+TTGATGNGTTA
+>hXBP-1
+TTGATGNGTAC
+>hXBP-1
+TTGATGNGTAA
+>hXBP-1
+TGGATGNGGCC
+>hXBP-1
+TGGATGNGGCA
+>hXBP-1
+TGGATGNGGTC
+>hXBP-1
+TGGATGNGGTA
+>hXBP-1
+TGGATGNGGAC
+>hXBP-1
+TGGATGNGGAA
+>MEF2
+NNNNNNGCTAAAAATAGCNNNN
+>MEF2
+NNNNNNGCTAAAAATAGANNNN
+>MEF2
+NNNNNNGCTATAAATAGCNNNN
+>MEF2
+NNNNNNGCTATAAATAGANNNN
+>MEF2
+NNNNNNGCTTAAAATAGCNNNN
+>MEF2
+NNNNNNGCTTAAAATAGANNNN
+>MEF2
+NNNNNNGCTTTAAATAGCNNNN
+>MEF2
+NNNNNNGCTTTAAATAGANNNN
+>MEF2
+NNNNNNTCTAAAAATAGCNNNN
+>MEF2
+NNNNNNTCTAAAAATAGANNNN
+>MEF2
+NNNNNNTCTATAAATAGCNNNN
+>MEF2
+NNNNNNTCTATAAATAGANNNN
+>MEF2
+NNNNNNTCTTAAAATAGCNNNN
+>MEF2
+NNNNNNTCTTAAAATAGANNNN
+>MEF2
+NNNNNNTCTTTAAATAGCNNNN
+>MEF2
+NNNNNNTCTTTAAATAGANNNN
+>MEF2
+NNNNNTTCTAAAAATAGCNNNN
+>MEF2
+NNNNNTTCTAAAAATAGANNNN
+>MEF2
+NNNNNTTCTATAAATAGCNNNN
+>MEF2
+NNNNNTTCTATAAATAGANNNN
+>MEF2
+NNNNNTTCTTAAAATAGCNNNN
+>MEF2
+NNNNNTTCTTAAAATAGANNNN
+>MEF2
+NNNNNTTCTTTAAATAGCNNNN
+>MEF2
+NNNNNTTCTTTAAATAGANNNN
+>MEF2
+NNNNNTGCTAAAAATAGCNNNN
+>MEF2
+NNNNNTGCTAAAAATAGANNNN
+>MEF2
+NNNNNTGCTATAAATAGCNNNN
+>MEF2
+NNNNNTGCTATAAATAGANNNN
+>MEF2
+NNNNNTGCTTAAAATAGCNNNN
+>MEF2
+NNNNNTGCTTAAAATAGANNNN
+>MEF2
+NNNNNTGCTTTAAATAGCNNNN
+>MEF2
+NNNNNTGCTTTAAATAGANNNN
+>MEF2
+NNNNNATCTAAAAATAGCNNNN
+>MEF2
+NNNNNATCTAAAAATAGANNNN
+>MEF2
+NNNNNATCTATAAATAGCNNNN
+>MEF2
+NNNNNATCTATAAATAGANNNN
+>MEF2
+NNNNNATCTTAAAATAGCNNNN
+>MEF2
+NNNNNATCTTAAAATAGANNNN
+>MEF2
+NNNNNATCTTTAAATAGCNNNN
+>MEF2
+NNNNNATCTTTAAATAGANNNN
+>MEF2
+NNNNNAGCTAAAAATAGCNNNN
+>MEF2
+NNNNNAGCTAAAAATAGANNNN
+>MEF2
+NNNNNAGCTATAAATAGCNNNN
+>MEF2
+NNNNNAGCTATAAATAGANNNN
+>MEF2
+NNNNNAGCTTAAAATAGCNNNN
+>MEF2
+NNNNNAGCTTAAAATAGANNNN
+>MEF2
+NNNNNAGCTTTAAATAGCNNNN
+>MEF2
+NNNNNAGCTTTAAATAGANNNN
+>MEF2
+NCTGTTACTAAAAATAGAAACN
+>MEF2
+NCTGTTACTAAAAATAGAAAAN
+>MEF2
+NCTGTTACTAAAAATAGAACCN
+>MEF2
+NCTGTTACTAAAAATAGAACAN
+>MEF2
+NCTGTTACTATAAATAGATACN
+>MEF2
+NCTGTTACTATAAATAGATAAN
+>MEF2
+NCTGTTACTATAAATAGATCCN
+>MEF2
+NCTGTTACTATAAATAGATCAN
+>MEF2
+NGTGTTACTAAAAATAGAAACN
+>MEF2
+NGTGTTACTAAAAATAGAAAAN
+>MEF2
+NGTGTTACTAAAAATAGAACCN
+>MEF2
+NGTGTTACTAAAAATAGAACAN
+>MEF2
+NGTGTTACTATAAATAGATACN
+>MEF2
+NGTGTTACTATAAATAGATAAN
+>MEF2
+NGTGTTACTATAAATAGATCCN
+>MEF2
+NGTGTTACTATAAATAGATCAN
+>ASF/SF2 
+RGAAGAAC
+>ASF/SF2 
+AGGACAGAGC
+>ASF/SF2 
+AGGACGAAGC
+>ASF/SF2
+ACGCGCA
+>ASF/SF2
+AGSAGAGTA
+>ASF/SF2 
+GTTCGAGTA
+>MCM1 
+NOTCCCYAATNNAG
+>MCM1 
+NOTCCCYAATNNGG
+>MCM1 
+NOTCCCYAAANNAG
+>MCM1 
+NOTCCCYAAANNGG
+>MCM1 
+NOTCCCYTTTNNAG
+>MCM1 
+NOTCCCYTTTNNGG
+>MCM1 
+NOTCCCYTTANNAG
+>MCM1 
+NOTCCCYTTANNGG
+>cMyc/Max 
+NGACCACGTGGTCN
+>cMax/Max 
+NRANCACGTGNTYN
+>MElk
+ACCGGAAGYR
+>MElk
+ACCGGAAAYR
+>MElk
+ACCGGATGYR
+>MElk
+ACCGGATAYR
+>MElk
+ATCGGAAGYR
+>MElk
+ATCGGAAAYR
+>MElk
+ATCGGATGYR
+>MElk
+ATCGGATAYR
+>c-Abl protein
+AAAAAACAACAA
+>c-Abl protein
+CN
+>Nova-1
+STEM-UCAUYUCAUYUCAUY-STEM
+>RORalpha1
+CTATCAAGGTCAG
+>RORalpha1
+CTATCAGGGTCAG
+>RORalpha1
+CTTTCTAGGTCAG
+>RORalpha1
+CTTTCTGGGTCAG
+>RORalpha1
+CAAACAAGGTCAG
+>RORalpha1
+CAAACAGGGTCAG
+>RORalpha1
+CATACTAGGTCAG
+>RORalpha1
+CATACTGGGTCAG
+>RORalpha1
+ATAAGTAGGTCAA
+>RORalpha1
+ATAAGTGGGTCAG
+>RORalpha1
+ATAACTAGGTCAA
+>RORalpha1
+ATAACTGGGTCAG
+>RORalpha1
+AAAAGTAGGTCAA
+>RORalpha1
+AAAAGTGGGTCAG
+>RORalpha1
+AAAACTAGGTCAA
+>RORalpha1
+AAAACTGGGTCAG
+>RORalpha1
+TTATGTAGGTCAA
+>RORalpha1
+TTATGTGGGTCAG
+>RORalpha1
+TTATCTAGGTCAA
+>RORalpha1
+TTATCTGGGTCAG
+>RORalpha1
+TAATGTAGGTCAA
+>RORalpha1
+TAATGTGGGTCAG
+>RORalpha1
+TAATCTAGGTCAA
+>RORalpha1
+TAATCTGGGTCAG
+>CPSF
+CN
+>CPSF
+CN
+>CPSF
+CN
+>Rad51 protein
+CN
+>CDXA protein
+ATTTATA
+>CDXA protein
+ATTTATG
+>CDXA protein
+CTTTATA
+>CDXA protein
+CTTTATG
+>OxyR protein
+GGNNNNANCTATNNNNNNN
+>OxyR protein
+ATNGGTNTNCC
+>OxyR protein
+ATANNNNNNNNANCTAT
+>OxyR protein
+NNNNNNNATAGNNNNNACC
+>OxyR protein
+TAT
+>SP1 protein
+GGGGCGGGGT
+>SP1 protein
+TAGGCGTAAT
+>SP1 protein
+TAGGCGTAAC
+>SP1 protein
+TGGGCGTGGT
+>SP1 protein
+TGGGCGTGGC
+>SP1 protein
+GAGGCGGAAT
+>SP1 protein
+GAGGCGGAAC
+>SP1 protein
+GGGGCGGGGT
+>SP1 protein
+GGGGCGGGGC
+>MZF1
+AGTGGGGANGT
+>MZF1
+CGGGNGAGGGGGAA
+>WT1
+GGGTGGGGGTATNN
+>WT1
+GGGTGGGGGTGTNN
+>WT1
+GGGTGGGGGGAGNN
+>WT1
+GGGTGGGGGGGGNN
+>Rbp9
+RWUUUAUUUWRRWUUUAUUUWR
+>Clox, CDP, mClox
+CTTGATTAG
+>Clox, CDP, mClox
+GATCAA------GATC
+>Clox, CDP, mClox
+GATCCA------GATC
+>Clox, CDP, mClox
+GATCCAGATCATGATCC
+>Clox, CDP, mClox
+GATCCAGATCAAGATCC
+>Clox, CDP, mClox
+GATCCAGATCCTGATCC
+>Clox, CDP, mClox
+GATCCAGATCCAGATCC
+>Clox, CDP, mClox
+GATCCTGATCATGATCC
+>Clox, CDP, mClox
+GATCCTGATCAAGATCC
+>Clox, CDP, mClox
+GATCCTGATCCTGATCC
+>Clox, CDP, mClox
+GATCCTGATCCAGATCC
+>Clox, CDP, mClox
+TATTGGTAAATTATCGG
+>Clox, CDP, mClox
+TATTGGTAAATTATCGA
+>Clox, CDP, mClox
+TATTGGTAAATTATTGG
+>Clox, CDP, mClox
+TATTGGTAAATTATTGA
+>Clox, CDP, mClox
+TATTGGAAAATTATCGG
+>Clox, CDP, mClox
+TATTGGAAAATTATCGA
+>Clox, CDP, mClox
+TATTGGAAAATTATTGG
+>Clox, CDP, mClox
+TATTGGAAAATTATTGA
+>Clox, CDP, mClox
+TATCGGTAAATTATCGG
+>Clox, CDP, mClox
+TATCGGTAAATTATCGA
+>Clox, CDP, mClox
+TATCGGTAAATTATTGG
+>Clox, CDP, mClox
+TATCGGTAAATTATTGA
+>Clox, CDP, mClox
+TATCGGAAAATTATCGG
+>Clox, CDP, mClox
+TATCGGAAAATTATCGA
+>Clox, CDP, mClox
+TATCGGAAAATTATTGG
+>Clox, CDP, mClox
+TATCGGAAAATTATTGA
+>Clox, CDP, mClox
+TATATCGATTATCTTATTGG
+>Clox, CDP, mClox
+TATATCGATTATCGTATTGG
+>Clox, CDP, mClox
+TATATTGATTATTTTATTGG
+>Clox, CDP, mClox
+TATATTGATTATTGTATTGG
+>Clox, CDP, mClox
+TTTATCGATTATCTTATTGG
+>Clox, CDP, mClox
+TTTATCGATTATCGTATTGG
+>Clox, CDP, mClox
+TTTATTGATTATTTTATTGG
+>Clox, CDP, mClox
+TTTATTGATTATTGTATTGG
+>Clox, CDP, mClox
+AATATCGATTATCTAATTGG
+>Clox, CDP, mClox
+AATATCGATTATCGAATTGG
+>Clox, CDP, mClox
+AATATTGATTATTTAATTGG
+>Clox, CDP, mClox
+AATATTGATTATTGAATTGG
+>Clox, CDP, mClox
+ATTATCGATTATCTAATTGG
+>Clox, CDP, mClox
+ATTATCGATTATCGAATTGG
+>Clox, CDP, mClox
+ATTATTGATTATTTAATTGG
+>Clox, CDP, mClox
+ATTATTGATTATTGAATTGG
+>Clox, CDP, mClox
+TATATCGATTATTTT
+>Clox, CDP, mClox
+TATATCGATTATTTA
+>Clox, CDP, mClox
+TATATCGATTATTGT
+>Clox, CDP, mClox
+TATATCGATTATTGA
+>Clox, CDP, mClox
+TATATCGATTATCTT
+>Clox, CDP, mClox
+TATATCGATTATCTA
+>Clox, CDP, mClox
+TATATCGATTATCGT
+>Clox, CDP, mClox
+TATATCGATTATCGA
+>Clox, CDP, mClox
+TATATCGATCATTTT
+>Clox, CDP, mClox
+TATATCGATCATTTA
+>Clox, CDP, mClox
+TATATCGATCATTGT
+>Clox, CDP, mClox
+TATATCGATCATTGA
+>Clox, CDP, mClox
+TATATCGATCATCTT
+>Clox, CDP, mClox
+TATATCGATCATCTA
+>Clox, CDP, mClox
+TATATCGATCATCGT
+>Clox, CDP, mClox
+TATATCGATCATCGA
+>Clox, CDP, mClox
+TATATTGATTATTTT
+>Clox, CDP, mClox
+TATATTGATTATTTA
+>Clox, CDP, mClox
+TATATTGATTATTGT
+>Clox, CDP, mClox
+TATATTGATTATTGA
+>Clox, CDP, mClox
+TATATTGATTATCTT
+>Clox, CDP, mClox
+TATATTGATTATCTA
+>Clox, CDP, mClox
+TATATTGATTATCGT
+>Clox, CDP, mClox
+TATATTGATTATCGA
+>Clox, CDP, mClox
+TATATTGATCATTTT
+>Clox, CDP, mClox
+TATATTGATCATTTA
+>Clox, CDP, mClox
+TATATTGATCATTGT
+>Clox, CDP, mClox
+TATATTGATCATTGA
+>Clox, CDP, mClox
+TATATTGATCATCTT
+>Clox, CDP, mClox
+TATATTGATCATCTA
+>Clox, CDP, mClox
+TATATTGATCATCGT
+>Clox, CDP, mClox
+TATATTGATCATCGA
+>Clox, CDP, mClox
+TATATCGATTATTTT
+>Clox, CDP, mClox
+TATATCGATTATCTT
+>Clox, CDP, mClox
+TATATCGATCATTTT
+>Clox, CDP, mClox
+TATATCGATCATCTT
+>Clox, CDP, mClox
+TATATTGATTATTTT
+>Clox, CDP, mClox
+TATATTGATTATCTT
+>Clox, CDP, mClox
+TATATTGATCATTTT
+>Clox, CDP, mClox
+TATATTGATCATCTT
+>Clox, CDP, mClox
+TAGATCGATTAGTTT
+>Clox, CDP, mClox
+TAGATCGATTAGCTT
+>Clox, CDP, mClox
+TAGATCGATCAGTTT
+>Clox, CDP, mClox
+TAGATCGATCAGCTT
+>Clox, CDP, mClox
+TAGATTGATTAGTTT
+>Clox, CDP, mClox
+TAGATTGATTAGCTT
+>Clox, CDP, mClox
+TAGATTGATCAGTTT
+>Clox, CDP, mClox
+TAGATTGATCAGCTT
+>Clox, CDP, mClox
+TTTATCGATTATTTT
+>Clox, CDP, mClox
+TTTATCGATTATCTT
+>Clox, CDP, mClox
+TTTATCGATCATTTT
+>Clox, CDP, mClox
+TTTATCGATCATCTT
+>Clox, CDP, mClox
+TTTATTGATTATTTT
+>Clox, CDP, mClox
+TTTATTGATTATCTT
+>Clox, CDP, mClox
+TTTATTGATCATTTT
+>Clox, CDP, mClox
+TTTATTGATCATCTT
+>Clox, CDP, mClox
+TTGATCGATTAGTTT
+>Clox, CDP, mClox
+TTGATCGATTAGCTT
+>Clox, CDP, mClox
+TTGATCGATCAGTTT
+>Clox, CDP, mClox
+TTGATCGATCAGCTT
+>Clox, CDP, mClox
+TTGATTGATTAGTTT
+>Clox, CDP, mClox
+TTGATTGATTAGCTT
+>Clox, CDP, mClox
+TTGATTGATCAGTTT
+>Clox, CDP, mClox
+TTGATTGATCAGCTT
+>Clox, CDP, mClox
+AATATCGATTATTAA
+>Clox, CDP, mClox
+AATATCGATTATCAA
+>Clox, CDP, mClox
+AATATCGATCATTAA
+>Clox, CDP, mClox
+AATATCGATCATCAA
+>Clox, CDP, mClox
+AATATTGATTATTAA
+>Clox, CDP, mClox
+AATATTGATTATCAA
+>Clox, CDP, mClox
+AATATTGATCATTAA
+>Clox, CDP, mClox
+AATATTGATCATCAA
+>Clox, CDP, mClox
+AAGATCGATTAGTAA
+>Clox, CDP, mClox
+AAGATCGATTAGCAA
+>Clox, CDP, mClox
+AAGATCGATCAGTAA
+>Clox, CDP, mClox
+AAGATCGATCAGCAA
+>Clox, CDP, mClox
+AAGATTGATTAGTAA
+>Clox, CDP, mClox
+AAGATTGATTAGCAA
+>Clox, CDP, mClox
+AAGATTGATCAGTAA
+>Clox, CDP, mClox
+AAGATTGATCAGCAA
+>Clox, CDP, mClox
+ATTATCGATTATTAA
+>Clox, CDP, mClox
+ATTATCGATTATCAA
+>Clox, CDP, mClox
+ATTATCGATCATTAA
+>Clox, CDP, mClox
+ATTATCGATCATCAA
+>Clox, CDP, mClox
+ATTATTGATTATTAA
+>Clox, CDP, mClox
+ATTATTGATTATCAA
+>Clox, CDP, mClox
+ATTATTGATCATTAA
+>Clox, CDP, mClox
+ATTATTGATCATCAA
+>Clox, CDP, mClox
+ATGATCGATTAGTAA
+>Clox, CDP, mClox
+ATGATCGATTAGCAA
+>Clox, CDP, mClox
+ATGATCGATCAGTAA
+>Clox, CDP, mClox
+ATGATCGATCAGCAA
+>Clox, CDP, mClox
+ATGATTGATTAGTAA
+>Clox, CDP, mClox
+ATGATTGATTAGCAA
+>Clox, CDP, mClox
+ATGATTGATCAGTAA
+>Clox, CDP, mClox
+ATGATTGATCAGCAA
+>Clox, CDP, mClox
+TATATCGATTATTTT
+>Clox, CDP, mClox
+TATATCGATTATTGT
+>Clox, CDP, mClox
+TATATCGATTATCTT
+>Clox, CDP, mClox
+TATATCGATTATCGT
+>Clox, CDP, mClox
+TATATCGATCATTTT
+>Clox, CDP, mClox
+TATATCGATCATTGT
+>Clox, CDP, mClox
+TATATCGATCATCTT
+>Clox, CDP, mClox
+TATATCGATCATCGT
+>Clox, CDP, mClox
+TATATTGATTATTTT
+>Clox, CDP, mClox
+TATATTGATTATTGT
+>Clox, CDP, mClox
+TATATTGATTATCTT
+>Clox, CDP, mClox
+TATATTGATTATCGT
+>Clox, CDP, mClox
+TATATTGATCATTTT
+>Clox, CDP, mClox
+TATATTGATCATTGT
+>Clox, CDP, mClox
+TATATTGATCATCTT
+>Clox, CDP, mClox
+TATATTGATCATCGT
+>Clox, CDP, mClox
+TTTATCGATTATTTT
+>Clox, CDP, mClox
+TTTATCGATTATTGT
+>Clox, CDP, mClox
+TTTATCGATTATCTT
+>Clox, CDP, mClox
+TTTATCGATTATCGT
+>Clox, CDP, mClox
+TTTATCGATCATTTT
+>Clox, CDP, mClox
+TTTATCGATCATTGT
+>Clox, CDP, mClox
+TTTATCGATCATCTT
+>Clox, CDP, mClox
+TTTATCGATCATCGT
+>Clox, CDP, mClox
+TTTATTGATTATTTT
+>Clox, CDP, mClox
+TTTATTGATTATTGT
+>Clox, CDP, mClox
+TTTATTGATTATCTT
+>Clox, CDP, mClox
+TTTATTGATTATCGT
+>Clox, CDP, mClox
+TTTATTGATCATTTT
+>Clox, CDP, mClox
+TTTATTGATCATTGT
+>Clox, CDP, mClox
+TTTATTGATCATCTT
+>Clox, CDP, mClox
+TTTATTGATCATCGT
+>Clox, CDP, mClox
+AATATCGATTATTTA
+>Clox, CDP, mClox
+AATATCGATTATTGA
+>Clox, CDP, mClox
+AATATCGATTATCTA
+>Clox, CDP, mClox
+AATATCGATTATCGA
+>Clox, CDP, mClox
+AATATCGATCATTTA
+>Clox, CDP, mClox
+AATATCGATCATTGA
+>Clox, CDP, mClox
+AATATCGATCATCTA
+>Clox, CDP, mClox
+AATATCGATCATCGA
+>Clox, CDP, mClox
+AATATTGATTATTTA
+>Clox, CDP, mClox
+AATATTGATTATTGA
+>Clox, CDP, mClox
+AATATTGATTATCTA
+>Clox, CDP, mClox
+AATATTGATTATCGA
+>Clox, CDP, mClox
+AATATTGATCATTTA
+>Clox, CDP, mClox
+AATATTGATCATTGA
+>Clox, CDP, mClox
+AATATTGATCATCTA
+>Clox, CDP, mClox
+AATATTGATCATCGA
+>Clox, CDP, mClox
+ATTATCGATTATTTA
+>Clox, CDP, mClox
+ATTATCGATTATTGA
+>Clox, CDP, mClox
+ATTATCGATTATCTA
+>Clox, CDP, mClox
+ATTATCGATTATCGA
+>Clox, CDP, mClox
+ATTATCGATCATTTA
+>Clox, CDP, mClox
+ATTATCGATCATTGA
+>Clox, CDP, mClox
+ATTATCGATCATCTA
+>Clox, CDP, mClox
+ATTATCGATCATCGA
+>Clox, CDP, mClox
+ATTATTGATTATTTA
+>Clox, CDP, mClox
+ATTATTGATTATTGA
+>Clox, CDP, mClox
+ATTATTGATTATCTA
+>Clox, CDP, mClox
+ATTATTGATTATCGA
+>Clox, CDP, mClox
+ATTATTGATCATTTA
+>Clox, CDP, mClox
+ATTATTGATCATTGA
+>Clox, CDP, mClox
+ATTATTGATCATCTA
+>Clox, CDP, mClox
+ATTATTGATCATCGA
+>Rev protein
+TGGGCNCAGNGTNNNNNANNCTGNNGGTACA
+>ERRalfa, estrogen-related receptor alfa
+NNNTNAAGGTCANN
+>RTR; retinoid receptor-related testis-assotiated receptor
+NTCAAGGTCAAGGTCANN
+>RTR; retinoid receptor-related testis-assotiated receptor
+NTCAAGTTCAAGTTCANN
+>FLI-1 
+TNGACCGGAAGTAG
+>FLI-1 
+TNGACCGGAAGTGG
+>FLI-1 
+TNGACCGGAAGCAG
+>FLI-1 
+TNGACCGGAAGCGG
+>FLI-1 
+TNGACCGGAAATAG
+>FLI-1 
+TNGACCGGAAATGG
+>FLI-1 
+TNGACCGGAAACAG
+>FLI-1 
+TNGACCGGAAACGG
+>FLI-1 
+TNAACCGGAAGTAA
+>FLI-1 
+TNAACCGGAAGTGA
+>FLI-1 
+TNAACCGGAAGCAA
+>FLI-1 
+TNAACCGGAAGCGA
+>FLI-1 
+TNAACCGGAAATAA
+>FLI-1 
+TNAACCGGAAATGA
+>FLI-1 
+TNAACCGGAAACAA
+>FLI-1 
+TNAACCGGAAACGA
+>FLI-1 
+GNGACCGGAAGTAG
+>FLI-1 
+GNGACCGGAAGTGG
+>FLI-1 
+GNGACCGGAAGCAG
+>FLI-1 
+GNGACCGGAAGCGG
+>FLI-1 
+GNGACCGGAAATAG
+>FLI-1 
+GNGACCGGAAATGG
+>FLI-1 
+GNGACCGGAAACAG
+>FLI-1 
+GNGACCGGAAACGG
+>FLI-1 
+GNAACCGGAAGTAA
+>FLI-1 
+GNAACCGGAAGTGA
+>FLI-1 
+GNAACCGGAAGCAA
+>FLI-1 
+GNAACCGGAAGCGA
+>FLI-1 
+GNAACCGGAAATAA
+>FLI-1 
+GNAACCGGAAATGA
+>FLI-1 
+GNAACCGGAAACAA
+>FLI-1 
+GNAACCGGAAACGA
+>v-Jun
+ATGACGTCAT
+>v-Jun
+ATGACTCAT
+>ADD1/SREBP1
+GATCACGTGAT
+>ADD1/SREBP1
+GATCACGTGAC
+>ADD1/SREBP1
+CATCACGTGAT
+>ADD1/SREBP1
+CATCACGTGAC
+>ADD1/SREBP1
+NATCACCCCAC
+>Maf
+TGCTGACTCAGCA
+>Maf
+TGCTGACGTCAGCA
+>Ets-1
+ACMGGAWRTT
+>YY1
+NNNNVDCCATNWYNNN
+>YY1
+NDDNMGACATNTTNNN
+>Oct-2B
+ATGCAAA
+>Oct-2B
+ATGTAAA
+>Oct-2B
+TAAT
+>TFIIIA
+GGGGAAAY
+>TFIIIA
+GGGGAAGY
+>TFIIIA
+GGGGACAY
+>TFIIIA
+GGGGACGY
+>TFIIIA with zf1-3/5 
+GGGGUCAY
+>TFIIIA with zf1-3/5 
+GGGGUCYY
+>TFIIIA with zf1-3/5 
+GGGGUGAY
+>TFIIIA with zf1-3/5 
+GGGGUGYY
+>TFIIIA with zf1-3/5 
+GGGGTCAY
+>TFIIIA with zf1-3/5 
+GGGGTCYY
+>TFIIIA with zf1-3/5 
+GGGGTGAY
+>TFIIIA with zf1-3/5 
+GGGGTGYY
+>TFIIIA with zf1-3/5 
+GGAGUCAY
+>TFIIIA with zf1-3/5 
+GGAGUCYY
+>TFIIIA with zf1-3/5 
+GGAGUGAY
+>TFIIIA with zf1-3/5 
+GGAGUGYY
+>TFIIIA with zf1-3/5 
+GGAGTCAY
+>TFIIIA with zf1-3/5 
+GGAGTCYY
+>TFIIIA with zf1-3/5 
+GGAGTGAY
+>TFIIIA with zf1-3/5 
+GGAGTGYY
+>MBP-Th1/E47N heterodimer
+NNNGGDTCTGGHATT
+>MBP-Th1/E47N heterodimer
+NNNGGDTCTGGHTTT
+>ZAP1 Zinc-dependent Activator Protein-1 
+CGTTGACCGAG
+>GST-Brn-3.0 POU domain fusion protein
+GCATAATTAAT
+>GST-Brn-3.0 POU domain fusion protein
+GCATAAATAAT
+>GST-Brn-3.0 POU domain fusion protein
+GCATTATTTAT
+>GST-Brn-3.0 POU domain fusion protein
+GCATTAATTAT
+>GST-Brn-3.0 full coding fusion protein
+GCATNATTTAT
+>GST-Brn-3.0 full coding fusion protein
+GCATNAATAAT
+>GST-Brn-3.2 POU domain fusion protein
+GCATAATTAAT
+>GST-Brn-3.2 POU domain fusion protein
+GCATAAATAAT
+>UNC-86 POU domain
+GCATAATTAATNAG
+>MOK2
+ACCTTATCAGGGCCTTTA
+>MOK2
+GCCTTGTCAGGGCCTTTA
+>MOK2
+ACCTTATCAGGGCCTTTA
+>MOK2
+GCCTTGTCAGGGCCTTTG
+>P protein a Myb homolog 
+ACCAACCATX
+>P protein a Myb homolog 
+ACCAACCCTX
+>P protein a Myb homolog 
+ACCTACCATX
+>P protein a Myb homolog 
+ACCTACCCTX
+>v-Myb
+YRGTAACGGC
+>v-Myb
+YRGTAACGGT
+>v-Myb
+YRGTAACGGA
+>v-Myb
+YRGCAACGGC
+>v-Myb
+YRGCAACGGT
+>v-Myb
+YRGCAACGGA
+>v-Myb
+YRCTAACGGC
+>v-Myb
+YRCTAACGGT
+>v-Myb
+YRCTAACGGA
+>v-Myb
+YRCCAACGGC
+>v-Myb
+YRCCAACGGT
+>v-Myb
+YRCCAACGGA
+>MYB.Ph3 protein
+AAAAAACGGTTA
+>MYB.Ph3 protein
+AAAAAACCGTTA
+>MYB.Ph3 protein
+AAAADDCGGTTA
+>MYB.Ph3 protein
+AAAADDCCGTTA
+>MYB.Ph3 protein
+AAAAGTTAGTTA
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+TAAGGTCAANAGGTCA
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+TAAGGTCAANAGGTCG
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+TAAGGTCAANAGGTGA
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+TAAGGTCAANAGGTGG
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+TAAGGTCAANAGTTCA
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+TAAGGTCAANAGTTCG
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+TAAGGTCAANAGTTGA
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+TAAGGTCAANAGTTGG
+>RXR/RAR retinoid X receptor-retinoic acid receptor heterodimer 
+TAAGGTCAANNAGAGGTCA
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNTTTTTTCCGCCTTTTTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNTTTTTTCCGCCTTTCTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNTTTTTTCCGCCAAATTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNTTTTTTCCGCCAAACTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNTTTTTTGCGGCTTTTTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNTTTTTTGCGGCTTTCTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNTTTTTTGCGGCAAATTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNTTTTTTGCGGCAAACTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNGTTTTTCCGCCTTTTTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNGTTTTTCCGCCTTTCTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNGTTTTTCCGCCAAATTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNGTTTTTCCGCCAAACTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNGTTTTTGCGGCTTTTTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNGTTTTTGCGGCTTTCTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNGTTTTTGCGGCAAATTCN
+>E2F-1/DP-1 complex baculovirus-expressed
+NNNGTTTTTGCGGCAAACTCN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNTTTTCCCGCCATTTTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNTTTTCCCGCCATATTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNTTTTCCCGCCTTTTTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNTTTTCCCGCCTTATTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNTTTTGGCGGCATTTTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNTTTTGGCGGCATATTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNTTTTGGCGGCTTTTTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNTTTTGGCGGCTTATTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNCTTTCCCGCCATTCTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNCTTTCCCGCCATACTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNCTTTCCCGCCTTTCTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNCTTTCCCGCCTTACTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNCTTTGGCGGCATTCTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNCTTTGGCGGCATACTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNCTTTGGCGGCTTTCTNN
+>E2F-1/DP-2 complex baculovirus-expressed
+NNNCTTTGGCGGCTTACTNN
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTCGCGCGAAAAGGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTCGCGCGAAAATGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTCGCGCGAATTGGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTCGCGCGAATTTGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTCCCGCCAAAAGGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTCCCGCCAAAATGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTCCCGCCAATTGGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTCCCGCCAATTTGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTGGCGCGAAAAGGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTGGCGCGAAAATGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTGGCGCGAATTGGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTGGCGCGAATTTGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTGCCGCCAAAAGGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTGCCGCCAAAATGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTGCCGCCAATTGGG
+>E2F-4/DP-1 complex baculovirus-expressed
+CCCTTTTGCCGCCAATTTGG
+>E2F-4/DP-2 complex baculovirus-expressed
+NNATTTTCCCGCCATTTTTN
+>E2F-4/DP-2 complex baculovirus-expressed
+NNATTTTCCCGCCTTTTTTN
+>E2F-4/DP-2 complex baculovirus-expressed
+NNATTTTGGCGGGATTTTTN
+>E2F-4/DP-2 complex baculovirus-expressed
+NNATTTTGGCGGGTTTTTTN
+>E2F-4/DP-2 complex baculovirus-expressed
+NNATATTCCCGCCAATTTTN
+>E2F-4/DP-2 complex baculovirus-expressed
+NNATATTCCCGCCTATTTTN
+>E2F-4/DP-2 complex baculovirus-expressed
+NNATATTGGCGGGAATTTTN
+>E2F-4/DP-2 complex baculovirus-expressed
+NNATATTGGCGGGTATTTTN
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTCGCGCGAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTCGCGCGAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTCGCGCGAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTCGCGCGAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTCCCGCCAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTCCCGCCAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTCCCGCCAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTCCCGCCAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTGGCGGGAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTGGCGGGAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTGGCGGGAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTGGCGGGAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTGCCGGCAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTGCCGGCAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTGCCGGCAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAATTTTGCCGGCAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTCGCGCGAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTCGCGCGAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTCGCGCGAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTCGCGCGAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTCCCGCCAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTCCCGCCAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTCCCGCCAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTCCCGCCAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTGGCGGGAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTGGCGGGAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTGGCGGGAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTGGCGGGAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTGCCGGCAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTGCCGGCAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTGCCGGCAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+AAAAATTGCCGGCAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTCGCGCGAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTCGCGCGAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTCGCGCGAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTCGCGCGAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTCCCGCCAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTCCCGCCAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTCCCGCCAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTCCCGCCAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTGGCGGGAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTGGCGGGAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTGGCGGGAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTGGCGGGAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTGCCGGCAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTGCCGGCAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTGCCGGCAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCTTTTGCCGGCAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTCGCGCGAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTCGCGCGAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTCGCGCGAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTCGCGCGAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTCCCGCCAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTCCCGCCAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTCCCGCCAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTCCCGCCAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTGGCGGGAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTGGCGGGAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTGGCGGGAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTGGCGGGAATTGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTGCCGGCAAAATTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTGCCGGCAAAAGGG
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTGCCGGCAATTTTT
+>Rb/E2F-1/DP-1 complex baculovirus-expressed
+CCCAATTGCCGGCAATTGGG
+>the SR protein RBP1 expressed in E.coli
+ACAGCTTTA
+>the SR protein RBP1 expressed in E.coli
+ACATCTTTA
+>the SR protein RBP1 expressed in E.coli
+ACAACTTTA
+>the SR protein RBP1 expressed in E.coli
+TCAGCTTTA
+>the SR protein RBP1 expressed in E.coli
+TCATCTTTA
+>the SR protein RBP1 expressed in E.coli
+TCAACTTTA
+>the SR protein RBP1 expressed in E.coli
+GCAGCTTTA
+>the SR protein RBP1 expressed in E.coli
+GCATCTTTA
+>the SR protein RBP1 expressed in E.coli
+GCAACTTTA
+>GST-B6ZF
+TNCTTTCNAGGAAT
+>GST-B6ZF
+TNCTTTCNAGGGAT
+>GST-B6ZF
+ANCTTTCNAGGAAT
+>GST-B6ZF
+ANCTTTCNAGGGAT
+>GST-YY1 fudion protein expressed in E.coli
+CGCCATNTT
+>GST-YY1 fudion protein expressed in E.coli
+CGCCATNTG
+>GST-YY1 fudion protein expressed in E.coli
+CGCCATNTC
+>GST-YY1 fudion protein expressed in E.coli
+CGCCATNAT
+>GST-YY1 fudion protein expressed in E.coli
+CGCCATNAG
+>GST-YY1 fudion protein expressed in E.coli
+CGCCATNAC
+>GST-YY1 fudion protein expressed in E.coli
+CTCCATNTT
+>GST-YY1 fudion protein expressed in E.coli
+CTCCATNTG
+>GST-YY1 fudion protein expressed in E.coli
+CTCCATNTC
+>GST-YY1 fudion protein expressed in E.coli
+CTCCATNAT
+>GST-YY1 fudion protein expressed in E.coli
+CTCCATNAG
+>GST-YY1 fudion protein expressed in E.coli
+CTCCATNAC
+>GST-YY1 fudion protein expressed in E.coli
+GGCCATNTT
+>GST-YY1 fudion protein expressed in E.coli
+GGCCATNTG
+>GST-YY1 fudion protein expressed in E.coli
+GGCCATNTC
+>GST-YY1 fudion protein expressed in E.coli
+GGCCATNAT
+>GST-YY1 fudion protein expressed in E.coli
+GGCCATNAG
+>GST-YY1 fudion protein expressed in E.coli
+GGCCATNAC
+>GST-YY1 fudion protein expressed in E.coli
+GTCCATNTT
+>GST-YY1 fudion protein expressed in E.coli
+GTCCATNTG
+>GST-YY1 fudion protein expressed in E.coli
+GTCCATNTC
+>GST-YY1 fudion protein expressed in E.coli
+GTCCATNAT
+>GST-YY1 fudion protein expressed in E.coli
+GTCCATNAG
+>GST-YY1 fudion protein expressed in E.coli
+GTCCATNAC
+>GST-YY1 fudion protein expressed in E.coli
+AGCCATNTT
+>GST-YY1 fudion protein expressed in E.coli
+AGCCATNTG
+>GST-YY1 fudion protein expressed in E.coli
+AGCCATNTC
+>GST-YY1 fudion protein expressed in E.coli
+AGCCATNAT
+>GST-YY1 fudion protein expressed in E.coli
+AGCCATNAG
+>GST-YY1 fudion protein expressed in E.coli
+AGCCATNAC
+>GST-YY1 fudion protein expressed in E.coli
+ATCCATNTT
+>GST-YY1 fudion protein expressed in E.coli
+ATCCATNTG
+>GST-YY1 fudion protein expressed in E.coli
+ATCCATNTC
+>GST-YY1 fudion protein expressed in E.coli
+ATCCATNAT
+>GST-YY1 fudion protein expressed in E.coli
+ATCCATNAG
+>GST-YY1 fudion protein expressed in E.coli
+ATCCATNAC
+>GBF1
+CCACGTGG
+>GBF1
+ACACGTGG
+>GBF1
+ACACGTGT
+>GBF1
+TGACGTGG
+>GBF1
+TGACGTGT
+>GBF1
+CTACGTGG
+>GBF1
+CTACGTGT
+>GBF1
+TTACGTGT
+>GST-Sox-5 fudion protein expressed in E.coli
+AACAAT
+>GST-Cut repeat 1 fusion protein expressed in E.coli
+NATCGATCG
+>GST-Cut repeat 3 fusion protein expressed in E.coli
+CACCAATANNTATNG
+>GST-Cut repeat 3 fusion protein expressed in E.coli
+CACCGATANNTATNG
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+GATCGATCCC
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+GATCGATCGG
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+GATCGATGCC
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+GATCGATGGG
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+GATTGATCCC
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+GATTGATCGG
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+GATTGATGCC
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+GATTGATGGG
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+CATCGATCCC
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+CATCGATCGG
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+CATCGATGCC
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+CATCGATGGG
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+CATTGATCCC
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+CATTGATCGG
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+CATTGATGCC
+>GST-Cut repeat 3-plus-homeodomain fusion protein expressed in E.coli
+CATTGATGGG
+>T protein product of Brachyury gene synthesized in vitro
+CTAGTGACACCTAGGTGTGAAATT
+>T protein product of Brachyury gene synthesized in vitro
+CTAGTCACACCTAGGTGTGAAATT
+>HNF-4 hepatocyte nuclear factor 4 
+NGGGNCAAAGCTCAN
+>HNF-4 hepatocyte nuclear factor 4 
+NGGGNCAAAGCTCGN
+>HNF-4 hepatocyte nuclear factor 4 
+NGGGNCAAAGTTCAN
+>HNF-4 hepatocyte nuclear factor 4 
+NGGGNCAAAGTTCGN
+>HNF-4 hepatocyte nuclear factor 4 
+NAGGNCAAAGCTCAN
+>HNF-4 hepatocyte nuclear factor 4 
+NAGGNCAAAGCTCGN
+>HNF-4 hepatocyte nuclear factor 4 
+NAGGNCAAAGTTCAN
+>HNF-4 hepatocyte nuclear factor 4 
+NAGGNCAAAGTTCGN
+>HSF1 heat shock transcription factor 1 
+AGGACGTTCG
+>HSF1 heat shock transcription factor 1 
+AGGATGTTCG
+>HSF2 heat shock transcription factor 2 
+AGAANNTTCG
+>HSF2 heat shock transcription factor 2 
+AGAANNTTCT
+>HSF2 heat shock transcription factor 2 
+GGAANNTTCG
+>HSF2 heat shock transcription factor 2 
+GGAANNTTCT
+>Tax-CREB complex
+TGACGCATATCCCCC
+>Tax-CREB complex
+TGACGCATACCCCCC
+>Tax-CREB complex
+GGGGGTTGACGTA
+>Tax-CREB complex
+GGGGGTTGACGTC
+>Tax-CREB complex
+GGGGGTTGACGCA
+>Tax-CREB complex
+GGGGGTTGACGCC
+>Tax-CREB complex
+GGGGGGTGACGTA
+>Tax-CREB complex
+GGGGGGTGACGTC
+>Tax-CREB complex
+GGGGGGTGACGCA
+>Tax-CREB complex
+GGGGGGTGACGCC
+>Tax-CREB complex
+GGGGGTTGACGTATATCCCCC
+>Tax-CREB complex
+GGGGGTTGACGTCTATCCCCC
+>Tax-CREB complex
+GGGGGTTGACGCATACCCCCC
+>Tax-CREB complex
+GGGGGTTGACGCCTACCCCCC
+>Tax-CREB complex
+GGGGGGTGACGTATATCCCCC
+>Tax-CREB complex
+GGGGGGTGACGTCTATCCCCC
+>Tax-CREB complex
+GGGGGGTGACGCATACCCCCC
+>Tax-CREB complex
+GGGGGGTGACGCCTACCCCCC
+>CREB cyclic AMP response element-binding protein 
+GNTGACGT
+>CREB cyclic AMP response element-binding protein 
+GNTGACGC
+>GST-Gfi-1 fusion protein expressed in E.coli
+TAAATCACAGCA
+>GST-Gfi-1 fusion protein expressed in E.coli
+TAAATCACTGCA
+>wild-type hepatic leukemia factor HLF translated in vitro
+GTTACGTAAT
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+ATTCACCTGAA
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+ATTCACCTGAG
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+ATTCACCTTAA
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+ATTCACCTTAG
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+ACCCACCTGAA
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+ACCCACCTGAG
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+ACCCACCTTAA
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+ACCCACCTTAG
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+TTTCACCTGAA
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+TTTCACCTGAG
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+TTTCACCTTAA
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+TTTCACCTTAG
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+TCCCACCTGAA
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+TCCCACCTGAG
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+TCCCACCTTAA
+>JF12 portion of deltaEF1 fused to GST expressed in E.coli 
+TCCCACCTTAG
+>Ets-1
+NTTACCAAATNNGG-GAAN
+>Ets-1
+NTTACCAAAANNGG-GAAN
+>Ets-1
+NTTACCATTTNNGG-GTAN
+>Ets-1
+NTTACCATTANNGG-GTAN
+>Ets-1
+NTTTCCTAATNNGG-GAAN
+>Ets-1
+NTTTCCTAAANNGG-GAAN
+>Ets-1
+NTTTCCTTTTNNGG-GTAN
+>Ets-1
+NTTTCCTTTANNGG-GTAN
+>Ets-1
+NTAACCAAATNNGG-GAAN
+>Ets-1
+NTAACCAAAANNGG-GAAN
+>Ets-1
+NTAACCATTTNNGG-GTAN
+>Ets-1
+NTAACCATTANNGG-GTAN
+>Ets-1
+NTATCCTAATNNGG-GAAN
+>Ets-1
+NTATCCTAAANNGG-GAAN
+>Ets-1
+NTATCCTTTTNNGG-GTAN
+>Ets-1
+NTATCCTTTANNGG-GTAN
+>Ets-1
+NTTACCAAATNNGG-GAAN
+>Ets-1
+NTTACCAAAANNGG-GAAN
+>Ets-1
+NTTACCATTTNNGG-GTTN
+>Ets-1
+NTTACCATTANNGG-GTTN
+>Ets-1
+NTTTCCTAATNNGG-GAAN
+>Ets-1
+NTTTCCTAAANNGG-GAAN
+>Ets-1
+NTTTCCTTTTNNGG-GTTN
+>Ets-1
+NTTTCCTTTANNGG-GTTN
+>S8 homeodomain expressed in E.coli
+ANCCAATTAAC
+>S8 homeodomain expressed in E.coli
+ANCCAATTAGC
+>S8 homeodomain expressed in E.coli
+ANTTAATTAAC
+>S8 homeodomain expressed in E.coli
+ANTTAATTAGC
+>Evi-1 domain 1 GST fusion protein expressed in E.coli
+TGATAAGATAAGATAA
+>Evi-1 domain 1 GST fusion protein expressed in E.coli
+TGACAAGATAAGATAA
+>Evi-1 domain 1 GST fusion protein expressed in E.coli
+AGATAAGATAAGATAA
+>Evi-1 domain 1 GST fusion protein expressed in E.coli
+AGACAAGATAAGATAA
+>Evi-1 domain 1 GST fusion protein expressed in E.coli
+AGACAAGATAA
+>Evi-1 domain 1 GST fusion protein expressed in E.coli
+AGATAAGATAA
+>Evi-1 domain 1 zinc fingers 5 to 7 GST fusion protein expressed in E.coli
+AGATAAGATAA
+>Evi-1 domain 1 zinc fingers 4 to 6 GST fusion protein expressed in E.coli
+AGATAAGATAAGATAN
+>Evi-1 domain 1 zinc fingers 4 to 6 GST fusion protein expressed in E.coli
+TGATAAGATAAGATAN
+>Evi-1 domain 1 zinc fingers 4 to 6 GST fusion protein expressed in E.coli
+AGATAAGATAN
+>c-Myb
+YGRCAGTTAG
+>c-Myb
+YGRCAGTTGG
+>c-Myb
+YGRCCGTTAG
+>c-Myb
+YGRCCGTTGG
+>c-Myb
+YGRCGGTTAG
+>c-Myb
+YGRCGGTTGG
+>AP-2alfa
+NNAGCCGNAAGGNNN
+>AP-2alfa
+NNAGCCGNAAGCNNN
+>AP-2alfa
+NNAGCCGNAGGGNNN
+>AP-2alfa
+NNAGCCGNAGGCNNN
+>AP-2alfa
+NNAGCCGNGAGGNNN
+>AP-2alfa
+NNAGCCGNGAGCNNN
+>AP-2alfa
+NNAGCCGNGGGGNNN
+>AP-2alfa
+NNAGCCGNGGGCNNN
+>AP-2alfa
+NNAGCCGNCAGGNNN
+>AP-2alfa
+NNAGCCGNCAGCNNN
+>AP-2alfa
+NNAGCCGNCGGGNNN
+>AP-2alfa
+NNAGCCGNCGGCNNN
+>AP-2alfa
+NNAGCCCNAAGGNNN
+>AP-2alfa
+NNAGCCCNAAGCNNN
+>AP-2alfa
+NNAGCCCNAGGGNNN
+>AP-2alfa
+NNAGCCCNAGGCNNN
+>AP-2alfa
+NNAGCCCNGAGGNNN
+>AP-2alfa
+NNAGCCCNGAGCNNN
+>AP-2alfa
+NNAGCCCNGGGGNNN
+>AP-2alfa
+NNAGCCCNGGGCNNN
+>AP-2alfa
+NNAGCCCNCAGGNNN
+>AP-2alfa
+NNAGCCCNCAGCNNN
+>AP-2alfa
+NNAGCCCNCGGGNNN
+>AP-2alfa
+NNAGCCCNCGGCNNN
+>AP-2alfa
+NNAGCCTNAAGGNNN
+>AP-2alfa
+NNAGCCTNAAGCNNN
+>AP-2alfa
+NNAGCCTNAGGGNNN
+>AP-2alfa
+NNAGCCTNAGGCNNN
+>AP-2alfa
+NNAGCCTNGAGGNNN
+>AP-2alfa
+NNAGCCTNGAGCNNN
+>AP-2alfa
+NNAGCCTNGGGGNNN
+>AP-2alfa
+NNAGCCTNGGGCNNN
+>AP-2alfa
+NNAGCCTNCAGGNNN
+>AP-2alfa
+NNAGCCTNCAGCNNN
+>AP-2alfa
+NNAGCCTNCGGGNNN
+>AP-2alfa
+NNAGCCTNCGGCNNN
+>AP-2alfa
+NNCGCCGNAAGGNNN
+>AP-2alfa
+NNCGCCGNAAGCNNN
+>AP-2alfa
+NNCGCCGNAGGGNNN
+>AP-2alfa
+NNCGCCGNAGGCNNN
+>AP-2alfa
+NNCGCCGNGAGGNNN
+>AP-2alfa
+NNCGCCGNGAGCNNN
+>AP-2alfa
+NNCGCCGNGGGGNNN
+>AP-2alfa
+NNCGCCGNGGGCNNN
+>AP-2alfa
+NNCGCCGNCAGGNNN
+>AP-2alfa
+NNCGCCGNCAGCNNN
+>AP-2alfa
+NNCGCCGNCGGGNNN
+>AP-2alfa
+NNCGCCGNCGGCNNN
+>AP-2alfa
+NNCGCCCNAAGGNNN
+>AP-2alfa
+NNCGCCCNAAGCNNN
+>AP-2alfa
+NNCGCCCNAGGGNNN
+>AP-2alfa
+NNCGCCCNAGGCNNN
+>AP-2alfa
+NNCGCCCNGAGGNNN
+>AP-2alfa
+NNCGCCCNGAGCNNN
+>AP-2alfa
+NNCGCCCNGGGGNNN
+>AP-2alfa
+NNCGCCCNGGGCNNN
+>AP-2alfa
+NNCGCCCNCAGGNNN
+>AP-2alfa
+NNCGCCCNCAGCNNN
+>AP-2alfa
+NNCGCCCNCGGGNNN
+>AP-2alfa
+NNCGCCCNCGGCNNN
+>AP-2alfa
+NNCGCCTNAAGGNNN
+>AP-2alfa
+NNCGCCTNAAGCNNN
+>AP-2alfa
+NNCGCCTNAGGGNNN
+>AP-2alfa
+NNCGCCTNAGGCNNN
+>AP-2alfa
+NNCGCCTNGAGGNNN
+>AP-2alfa
+NNCGCCTNGAGCNNN
+>AP-2alfa
+NNCGCCTNGGGGNNN
+>AP-2alfa
+NNCGCCTNGGGCNNN
+>AP-2alfa
+NNCGCCTNCAGGNNN
+>AP-2alfa
+NNCGCCTNCAGCNNN
+>AP-2alfa
+NNCGCCTNCGGGNNN
+>AP-2alfa
+NNCGCCTNCGGCNNN
+>AP-2alfa
+NNTGCCGNAAGGNNN
+>AP-2alfa
+NNTGCCGNAAGCNNN
+>AP-2alfa
+NNTGCCGNAGGGNNN
+>AP-2alfa
+NNTGCCGNAGGCNNN
+>AP-2alfa
+NNTGCCGNGAGGNNN
+>AP-2alfa
+NNTGCCGNGAGCNNN
+>AP-2alfa
+NNTGCCGNGGGGNNN
+>AP-2alfa
+NNTGCCGNGGGCNNN
+>AP-2alfa
+NNTGCCGNCAGGNNN
+>AP-2alfa
+NNTGCCGNCAGCNNN
+>AP-2alfa
+NNTGCCGNCGGGNNN
+>AP-2alfa
+NNTGCCGNCGGCNNN
+>AP-2alfa
+NNTGCCCNAAGGNNN
+>AP-2alfa
+NNTGCCCNAAGCNNN
+>AP-2alfa
+NNTGCCCNAGGGNNN
+>AP-2alfa
+NNTGCCCNAGGCNNN
+>AP-2alfa
+NNTGCCCNGAGGNNN
+>AP-2alfa
+NNTGCCCNGAGCNNN
+>AP-2alfa
+NNTGCCCNGGGGNNN
+>AP-2alfa
+NNTGCCCNGGGCNNN
+>AP-2alfa
+NNTGCCCNCAGGNNN
+>AP-2alfa
+NNTGCCCNCAGCNNN
+>AP-2alfa
+NNTGCCCNCGGGNNN
+>AP-2alfa
+NNTGCCCNCGGCNNN
+>AP-2alfa
+NNTGCCTNAAGGNNN
+>AP-2alfa
+NNTGCCTNAAGCNNN
+>AP-2alfa
+NNTGCCTNAGGGNNN
+>AP-2alfa
+NNTGCCTNAGGCNNN
+>AP-2alfa
+NNTGCCTNGAGGNNN
+>AP-2alfa
+NNTGCCTNGAGCNNN
+>AP-2alfa
+NNTGCCTNGGGGNNN
+>AP-2alfa
+NNTGCCTNGGGCNNN
+>AP-2alfa
+NNTGCCTNCAGGNNN
+>AP-2alfa
+NNTGCCTNCAGCNNN
+>AP-2alfa
+NNTGCCTNCGGGNNN
+>AP-2alfa
+NNTGCCTNCGGCNNN
+>AP-2alfa
+NNGCCGNAGGCANN
+>AP-2alfa
+NNGCCGNAGGCGNN
+>AP-2alfa
+NNGCCGNAGGCTNN
+>AP-2alfa
+NNGCCGNGGGCANN
+>AP-2alfa
+NNGCCGNGGGCGNN
+>AP-2alfa
+NNGCCGNGGGCTNN
+>AP-2alfa
+NNGCCGNCGGCANN
+>AP-2alfa
+NNGCCGNCGGCGNN
+>AP-2alfa
+NNGCCGNCGGCTNN
+>AP-2alfa
+NNCGCCGCNAGGCANN
+>AP-2alfa
+NNCGCCGCNAGGCGNN
+>AP-2alfa
+NNCGCCGCNAGGCTNN
+>AP-2alfa
+NNCGCCGCNGGGCANN
+>AP-2alfa
+NNCGCCGCNGGGCGNN
+>AP-2alfa
+NNCGCCGCNGGGCTNN
+>AP-2alfa
+NNCGCCGCNCGGCANN
+>AP-2alfa
+NNCGCCGCNCGGCGNN
+>AP-2alfa
+NNCGCCGCNCGGCTNN
+>AP-2alfa
+NNTGCCGTNAGGCANN
+>AP-2alfa
+NNTGCCGTNAGGCGNN
+>AP-2alfa
+NNTGCCGTNAGGCTNN
+>AP-2alfa
+NNTGCCGTNGGGCANN
+>AP-2alfa
+NNTGCCGTNGGGCGNN
+>AP-2alfa
+NNTGCCGTNGGGCTNN
+>AP-2alfa
+NNTGCCGTNCGGCANN
+>AP-2alfa
+NNTGCCGTNCGGCGNN
+>AP-2alfa
+NNTGCCGTNCGGCTNN

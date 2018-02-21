@@ -1,0 +1,8 @@
+This README file serves the database-creating and editing scripts.
+This folder contains 1 directory, 2 .txt databases, 1 .ndb NASPBET database, and 3 python scripts:
+	-intermediate/ directory contains the intermediate files used to get to the final two databases
+	-new_htpselex.txt and new_sdb.txt represent cleaned-up versions of the two databases used
+	-final.ndb is the resulting NASPBET database, which will be used as a default database in the extraction script
+	-organize-size.py is a script that creates a NASPBET database form the other input databases, but keeps patters in the new database
+	-intermediate/organize-repl.py is a script that creates a NASPBET database from the other input databases, but does so in a listing way, changing all sequences to only include A,C,G,T
+	-intermediate/selex_db_extract.py is an intermediate python script that standardized the selex_db information
